@@ -1,0 +1,10 @@
+{
+  "source_commit": "bcf90b6f67d05c384a8a6da58361eb3782053499",
+  "version": 9,
+  "sha256": {
+    "dist/app.js": "852362f179333196458221d2dd9af51b56205f2365a746e4aeb7769af7d17b5d",
+    "dist/assets/intro.mp4": "10e2ce68f91cfe0ef8abca670ad710bbdb9f74d8c18c10099517ac438c8cb08b",
+    "dist/index.html": "8c3a86daef94e6f3718f4396b924d6fcf2eaf2910e4f834737d8ee94c458d092",
+    "dist/style.css": "6c93bcb854c2b4cb7ad36c922ac87f8b8b9267f8f8bf6815d28fc3875006e465"
+  }
+}

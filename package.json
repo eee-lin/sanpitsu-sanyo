@@ -1,0 +1,16 @@
+{
+  "name": "sanpitsu-sanyo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "三筆三様 編集可能な静的Webアプリ",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/check.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}
